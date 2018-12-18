@@ -1,0 +1,13 @@
+{
+  "name": "article-right-column",
+  "version": "1.0.0",
+  "description": "Правый сайдбар блога",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/article-right-column",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {}
+}
